@@ -17,8 +17,10 @@ its just a batch script install list of softwares for minimalist a.k.a non bloat
  Questions & Answers
 
 Q:How to use it?
+
 A:just use the ROOT user and run the batch .sh script
 
 A:for example if you use 'sudo' just type this on a Terminal : sudo sh install-DMUFS.sh
+
 A:and then type your user password and wait for the process to finish
 
