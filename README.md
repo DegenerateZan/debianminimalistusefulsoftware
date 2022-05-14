@@ -10,7 +10,7 @@ its just a batch script install list of softwares for minimalist a.k.a non bloat
 
 ! Warning!! this batch script can only run smoothly without error if you use the Official Debian or Ubuntu REPOSITORY off from their website
 
-! DO NOT USE BOTH REPO!, JUST USE THE ONE THAT BASED OF YOUR DISTRO OR THE DISTRO THAT YOUR USING
+! DO NOT USE BOTH REPO AT THE SAME TIME IT CAN CAUSE CONFLICT!, JUST USE THE ONE THAT BASED OF YOUR DISTRO OR THE DISTRO THAT YOUR USING
 !!!
 
 
