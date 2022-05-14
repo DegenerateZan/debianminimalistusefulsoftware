@@ -1,4 +1,4 @@
-# Debian minimalist useful softwares
+# DMUFS
 its just a batch script install list of softwares for minimalist a.k.a non bloated but useable Debian based Distro
 
 ! DMUFS stands for Debian Minimalist useful Softwares
